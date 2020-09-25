@@ -1,0 +1,72 @@
+Análise Heurística
+	"É um método ou processo criado com o objetivo de encontrar soluções para um problema."
+
+Heurísticas de Nielsen
+
+1- Feedback - Visibilidade do estado do Sistema
+	O sistema deve informar continuamente o usuário sobre o que está sendo feito.
+
+2- Falar a linguagem do usuário
+	A terminologia deve ser baseada na linguagem do usuário e não orientada ao sistema.
+
+3- Saídas claramente demarcadas - Liberdade e controle do usuário
+	O usuário controla o sistema, ele pode, a qualquer momento, abortar uma tarefa ou desfazer uma operação e retornar ao estado anterior.
+
+4- Consistência - Criação de padrões.
+	Um mesmo comando ou ação sempre deve ter sempre o mesmo efeito.
+	Padrões de layout devem ser utilizados para facilitar o reconhecimento por parte do usuário.
+
+5- Prevenir erros
+	Evitar situações de erro.
+	Prever as principais situações que provocam erros a fim de modificar a interface para que estes não ocorram.
+
+6- Minimizar a sobrecarga de memória do usuário
+	O sistema deve proporcionar uma navegação onde o usuário não precise lembrar um comando especifico ou ação.
+
+7- Atalhos
+	Para usuários experientes executarem ações mais rapidamente.
+	Abreviações, teclas de função, atalhos no mouse, função de voltar ou avançar páginas.
+
+8- Diálogos simples e naturais.
+	A informação deve ser apresentada de forma clara e de acordo com a demanda do usuário, nos momentos certos e oportunos.
+
+9- Boas mensagens de erro.
+	Linguagem clara e sem códigos.
+	Devem ajudar o usuário a entender e resolver o problema.
+	Não devem culpar ou intimidar o usuário.
+
+10- Ajuda e documentação.
+	O ideal é um software de fácil usabilidade, fazendo com que a procura pela seção de ajuda seja minimizada.
+	A seção de ajuda/ documentação deve ser de fácil acesso e entendimento.
+
+
+RESOLUÇÃO DO DESAFIO DE ANALISE HEURÍSTICA.
+
+
+Site decolar.com
+
+1- Feedback do sistema - O site apresenta feedback ao usuário de maneira competente. Um dos feedbacks é exibir ao usuário o progresso de carregamento 
+da página.
+
+2- Falar a linguagem do usuário - O sistema atende bem esse requisito já que todos os labels de botões e links são descritos com termos de fácil entendimento.
+
+3- Saídas claramente demarcadas/Liberdade e controle do usuário - O sistema apresenta ícones para retornar e cancelar, como por exemplo o X que é exibido
+antes de concluir a compra de uma passagem.
+
+4- Consistência - Criação de padrões - O site possuí padrões no layout, os botões possuem o mesmo formato, as cores escolhidas são utilizadas em todo o site
+inclusive no logotipo da empresa. Existe um padrão de utilização das fontes e dos textos, eles sempre apresentam características semelhantes como tamanho da fonte
+e família de fonte.
+
+5- Prevenir erros - O sistema alerta quando o usuário preenche algo de forma equivocada, como, por exemplo, quando o usuário seleciona origem e destino 
+para a mesma cidade.
+
+6- Minimizar a sobrecarga de memória do usuário - O sistema possui diversos botões com descrição clara, com isso o usuário não precisa lembrar 
+o caminho percorrido até determinada página ou menu. A navegação é facilitada devido as ações de cada elemento serem descritas de forma clara e objetiva.
+
+7- Atalhos - Não foram encontrados atalhos de teclas ou do mouse que executem alguma operação específica no site.
+
+8- Diálogos simples e naturais- A informação é clara e objetiva.
+
+9- Boas mensagens de erro - As mensagens de erro referêntes ao preenchimento incorreto de formulários são claras e objetivas.
+
+10- Ajuda e documentação - A documentação com ajuda é de fácil acesso e possui uma estrutura que facilita a busca por informações.
